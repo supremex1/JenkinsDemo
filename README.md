@@ -1,2 +1,0 @@
-# JenkinsDemo
-maven project
